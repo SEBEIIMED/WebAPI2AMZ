@@ -1,0 +1,42 @@
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestAPI.Test.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestAPI.Test.pdb
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\obj\Debug\RestAPI.Test.csprojResolveAssemblyReference.cache
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\obj\Debug\RestAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\obj\Debug\RestAPI.Test.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\obj\Debug\RestAPI.Test.pdb
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestApiSecurity.pdb
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestAPI.Test.dll.config
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\jose-jwt.dll
+C:\Users\sebei\source\repos\WebApplication4\RestAPI.Test\bin\Debug\RestApiSecurity.dll.config
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestAPI.Test.dll.config
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestAPI.Test.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestAPI.Test.pdb
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\jose-jwt.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestApiSecurity.pdb
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\RestApiSecurity.dll.config
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\obj\Debug\RestAPI.Test.csprojResolveAssemblyReference.cache
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\obj\Debug\RestAPI.Test.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\obj\Debug\RestAPI.Test.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestAPI.Test\obj\Debug\RestAPI.Test.pdb

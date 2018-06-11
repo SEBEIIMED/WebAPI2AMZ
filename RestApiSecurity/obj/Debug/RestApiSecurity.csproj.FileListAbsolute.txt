@@ -1,0 +1,35 @@
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\RestApiSecurity.pdb
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\obj\Debug\RestApiSecurity.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\obj\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\obj\Debug\RestApiSecurity.pdb
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\RestApiSecurity.dll.config
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\jose-jwt.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Web.Http.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\WebActivatorEx.dll
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Web.Http.xml
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sebei\source\repos\WebApplication4\RestApiSecurity\obj\Debug\RestApiSecurity.csprojResolveAssemblyReference.cache
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\RestApiSecurity.dll.config
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\RestApiSecurity.pdb
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\jose-jwt.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Web.Http.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\WebActivatorEx.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Web.Http.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\obj\Debug\RestApiSecurity.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\obj\Debug\RestApiSecurity.dll
+C:\Users\sebei\source\repos\WebApplication4 - Copie\RestApiSecurity\obj\Debug\RestApiSecurity.pdb
